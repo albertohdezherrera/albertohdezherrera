@@ -1,7 +1,6 @@
-### 🚀 FullStack Developer en Boycor
-#### Proyecto de Mi Cuenta y Supermercado del Corte Inglés.
+### 🚀 Front-end The Cocktail
 
-Full-Stack Developer en constante formación y con conocimientos de diseño, la multidisciplinariedad de mi perfil aporta un valor añadido al equipo de desarrollo de cualquier empresa. Mi objetivo principal es evolucionar como profesional participando en proyectos estimulantes con tecnología puntera. A cambio, ofrezco toda mi experiencia y motivación para seguir cumpliendo objetivos y alcanzando metas.
+Front-end Developer en constante formación y con conocimientos de diseño, la multidisciplinariedad de mi perfil aporta un valor añadido al equipo de desarrollo de cualquier empresa. Mi objetivo principal es evolucionar como profesional participando en proyectos estimulantes con tecnología puntera. A cambio, ofrezco toda mi experiencia y motivación para seguir cumpliendo objetivos y alcanzando metas.
 
 <!--
 **albertohdezherrera/albertohdezherrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
